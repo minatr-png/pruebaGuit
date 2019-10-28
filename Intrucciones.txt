@@ -1,0 +1,3 @@
+Pulsa doble click para iniciar el programa
+
+Y para cerrar pulsa alt + f4
